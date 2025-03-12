@@ -1,0 +1,196 @@
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Es_3\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\subnet mask - Copia\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\OneDrive\ITS Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\C#8\Sunbnet nuovo metodo\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\alecu\Desktop\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\alecu\OneDrive\Onedrive\Sunbnet nuovo metodo - Copia\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\Desktop\Calcolatore Finito delle subnet\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\Desktop\Its Appunti\Calcolatore Finito delle subnet\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\Alessandro.Custura\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\alecu\OneDrive\Onedrive\Calcolatore Finito delle subnet\obj\Debug\net8.0\ref\Nuova cartella.dll
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\bin\Debug\net8.0\Nuova cartella.exe
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\bin\Debug\net8.0\Nuova cartella.deps.json
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\bin\Debug\net8.0\Nuova cartella.runtimeconfig.json
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\bin\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\bin\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.AssemblyInfoInputs.cache
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.AssemblyInfo.cs
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.csproj.CoreCompileInputs.cache
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.dll
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\refint\Nuova cartella.dll
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.pdb
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\Nuova cartella.genruntimeconfig.cache
+C:\Users\alecu\Nextcloud\Programmi\C(sharp)\Calcolatore Finito delle subnet Code\obj\Debug\net8.0\ref\Nuova cartella.dll
